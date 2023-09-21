@@ -1,1 +1,1 @@
-{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AACA;EACI","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["\r\n* {\r\n    box-sizing: border-box;\r\n}\r\n"]}
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AACA;EACI;;;AAGJ;EACI","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["\r\n* {\r\n    box-sizing: border-box;\r\n}\r\n\r\nnav {\r\n    width: 100%;\r\n}\r\n"]}
