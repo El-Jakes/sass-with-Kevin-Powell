@@ -1,1 +1,1 @@
-{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAAA;EACI","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n    background: pink;\r\n}"]}
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AACA;EACI","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["\r\n* {\r\n    box-sizing: border-box;\r\n}\r\n"]}
