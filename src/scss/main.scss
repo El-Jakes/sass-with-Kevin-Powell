@@ -1,8 +1,5 @@
+@use 'abstracts' as *;
 
-* {
-    box-sizing: border-box;
-}
-
-nav {
-    width: 100%;
+body {
+    color: $color;
 }
